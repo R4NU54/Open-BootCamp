@@ -1,3 +1,3 @@
 # Open-BootCamp
- 
-Ejercicios del Curso de Introducción a la programación.
+
+Aqui iré subiendo los ejecrcicios de Open-BootCamp.
